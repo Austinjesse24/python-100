@@ -27,4 +27,4 @@ def calculate_love_score(name1, name2):
     return love_score
 
 # Test with the example
-print(calculate_love_score("roberta", "ethan"))
+print(calculate_love_score("stephie", "austin"))
